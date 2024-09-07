@@ -1,4 +1,4 @@
-integer=7s
+integer=7
 
 if [[ ! ($integer -gt 10) ]]
 then
